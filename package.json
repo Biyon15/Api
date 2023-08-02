@@ -22,7 +22,10 @@
   "dependencies": {
     "@nestjs/common": "^10.1.3",
     "@nestjs/core": "^10.0.0",
+<<<<<<< HEAD
     "@nestjs/mapped-types": "*",
+=======
+>>>>>>> origin/main
     "@nestjs/platform-express": "^10.0.0",
     "reflect-metadata": "^0.1.13",
     "rxjs": "^7.8.1"
