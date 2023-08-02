@@ -1,4 +1,5 @@
 import { Injectable } from '@nestjs/common';
+import { getMaxListeners } from 'events';
 import { CreateRegisterDto } from './dto/create-register.dto';
 
 @Injectable()
